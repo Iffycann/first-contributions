@@ -1,6 +1,7 @@
 # Contributors
 
 - [Riyaz Shaik](https://github.com/ShaikRiyaz2003) || [Riyaz Shaik](https://www.linkedin.com/in/shaikriyaz03/)
+-[Aidan Palmer](https://github.com/aidan-palmer)
 - [Priyanshu](https://github.com/Priyanshu085) || [LinkedIn](https://www.linkedin.com/in/Priyanshu085) || [Twitter](https://www.twitter.com/Priyanshux085)
 - [Siddharth Garg](https://github.com/Siddu24294)
 - [Sheng Xin](https://github.com/sheng0321)
@@ -13,9 +14,12 @@
 JiyinShao
 - [Venkatesh Jamge](https://github.com/venkateshjamge)
 - [Rudi Bakaal](https://github.com/rudibakaal)
+- [satoshi nakamoto](https://en.wikipedia.org/wiki/Adam_Back)
+- [James Kamz](https://github.com/JamesKamz)
 - [Loveday Ikegbulam](https://github.com/lovedayikegbulam)
 - [Pradip Manna](https://github.com/Loosify00)
 - [Rahul Patanwadia](https://github.com/Rahul-Patanwadia)
+- [Arshea Atif](https://github.com/arshea-02)
 - [Cyril Azubuine](https://github.com/cyrilberrypi) [LinkedIn](https://www.linkedin.com/in/cyril-azubuine/) [X](https://twitter.com/iamcyril_edtech)
 - [Ashish Lakra](https://github.com/ashishlakraa)
 - [Jay Gaha](https://github.com/jaygaha) First contribution 🦾
@@ -38,12 +42,14 @@ JiyinShao
 - [Ashutosh Panda](https://github.com/ashu7896) [(Linkedin)](https://www.linkedin.com/in/ashu7896)
 - [chux] (https://github.com/codechux)
 - [MPC] (https://github.com/Myat-00)
+- Rambo
 - [Praneeth Gourla] (https://github.com/praneethgourla18)
 - [Olha Zakharchevna](https://github.com/zakharchevna)
 - [Maxime de Montbron](https://github.com/mijnog/) Just learning how to code
 - [Samartha D N](https://github.com/SamtheGOC) Come chat w/ me on Discord at [.rizzmaster_]
 i-[Hilal Semercioğlu](https://github.com/elinoza)
 -[Asimanye Dudumayo](https://github.com/adudumayo)
+-[Julian Potter] (https://github.com/julpotter)
 -[Ali Hinnawe](https://github.com/alihinnawe)
 -[Sanja Rogovic](https://github.com/SanjaRogovic)
 -[Sarwat Jabeen](https://github.com/sarwatj)
@@ -3106,4 +3112,5 @@ LadegbayeStella)
 - [Rajeev Lochan Dash](https://github.com/RajeevDash007)
 - [He Wentao](https://github.com/goodmorning_hwt)
 - [Suchith Sameeri Balne](https://github.com/suchithbalne)
+- [Niyigena Fiston Alvin](https://github.com/ALVINdimpos)
 
